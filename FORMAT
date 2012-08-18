@@ -1,0 +1,13 @@
+Settings and save game:
+
+Name=data
+
+For example:
+
+foodBar=90
+
+
+
+Level data:
+
+Two and two bytes for each spot. The file should be (Width*height*3) big, as there is 3 layers: Terrain, vegetation, and player-made stuff.
